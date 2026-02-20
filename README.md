@@ -1,2 +1,2 @@
 # testimonials-grid-template
-Landing page using CSS grid
+Responsive landing page using CSS grid and flexbox
